@@ -1,4 +1,4 @@
-//META{"name":"BetterTypingUsers","source":"https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js","website":"https://1lighty.github.io/BetterDiscordStuff/?plugin=BetterTypingUsers","authorId":"239513071272329217","invite":"NYvWdN5","donate":"https://paypal.me/lighty13"}*//
+//META{"name":"BetterTypingUsers","source":"https://github.com/HeheheM/BetterDiscordPlugins/blob/master/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js","website":"https://1lighty.github.io/BetterDiscordStuff/?plugin=BetterTypingUsers","authorId":"239513071272329217","invite":"NYvWdN5","donate":"https://paypal.me/lighty13"}*//
 /*@cc_on
 @if (@_jscript)
 
@@ -44,7 +44,7 @@ module.exports = (() => {
       version: '1.0.3',
       description: 'Replaces "Several people are typing" with who is actually typing, plus "x others" if it can\'t fit. Number of shown people typing can be changed.',
       github: 'https://github.com/1Lighty',
-      github_raw: 'https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js'
+      github_raw: 'https://raw.githubusercontent.com/HeheheM/BetterDiscordPlugins/master/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js'
     },
     changelog: [
       {
