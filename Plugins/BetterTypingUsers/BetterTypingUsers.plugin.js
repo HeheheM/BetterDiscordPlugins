@@ -41,7 +41,7 @@ module.exports = (() => {
           twitter_username: ''
         }
       ],
-      version: '1.0.3',
+      version: '1.0.4',
       description: 'Replaces "Several people are typing" with who is actually typing, plus "x others" if it can\'t fit. Number of shown people typing can be changed.',
       github: 'https://github.com/1Lighty',
       github_raw: 'https://raw.githubusercontent.com/HeheheM/BetterDiscordPlugins/master/Plugins/BetterTypingUsers/BetterTypingUsers.plugin.js'
