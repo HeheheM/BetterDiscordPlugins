@@ -78,7 +78,7 @@ module.exports = (() => {
       hr: { AND_1_OTHER: ' i 1 drugi', AND_X_OTHERS: ' i ${count} drugih', AND: ' i ', ARE_TYPING: ' pišu...' },
       it: { AND_1_OTHER: ' e 1 altro', AND_X_OTHERS: ' e altri ${count}', AND: ' e ', ARE_TYPING: ' stanno scrivendo...' },
       tr: { AND_1_OTHER: ' ve 1 kişi daha', AND_X_OTHERS: ' ve ${count} kişi daha', AND: ' ve ', ARE_TYPING: ' yazıyor...' },
-      pl: { AND_1_OTHER: 'i 1 inny', AND_X_OTHERS: ' i ${count} innych', AND: ' i ', ARE_TYPING: ' piszą...' }
+      pl: { AND_1_OTHER: 'i 1 inny', AND_X_OTHERS: ' i ${count} osób', AND: ' i ', ARE_TYPING: ' pisze...' }
     }
   };
 
